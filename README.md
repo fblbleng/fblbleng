@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fblbleng
 - 👀 I’m interested in transcriptomics, gene's network analysis, personalized medicine
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning differential network analysis
 - 💞️ I’m looking to collaborate on personalized gene expression analysis
 - 📫 How to reach me fblbleng@gmail.com
 
